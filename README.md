@@ -1,0 +1,3 @@
+this is the code from the github repo: https://github.com/zoe-jpeg/online-banking-program redone because there were so many issues with the UI and there were so many different connections to different web app making programs it was easier to just move everything into a new file.
+
+objective: users need to have an account number and PIN to identify themselves as owners of an account. once users get into the system they will have standard options: check balance, deposit, and withdraw. additionally, a new user or bank administrator can also create a new account, close account, and modify an account (such as edit name, PIN, or any other personal identification required to open an account).
